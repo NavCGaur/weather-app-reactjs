@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import cities from '../../Data/in.json';
+import cities from '../../Data/output.json';
 
 import axios from "axios";
 
